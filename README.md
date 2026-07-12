@@ -9,15 +9,15 @@
 
 | App | 下载链接 |
 |-----|--------|
-| 应用 1 | [📱 1.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/1.apk) |
-| 应用 2 | [📱 2.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/2.apk) |
-| 应用 3 | [📱 3.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/3.apk) |
-| 应用 4 | [📱 4.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/4.apk) |
-| 应用 5 | [📱 5.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/5.apk) |
-| 应用 6 | [📱 6.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/6.apk) |
-| 应用 7 | [📱 7.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/7.apk) |
+| 应用 1 | [ 1.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/1.apk) |
+| 应用 2 | [ 2.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/2.apk) |
+| 应用 3 | [ 3.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/3.apk) |
+| 应用 4 | [ 4.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/4.apk) |
+| 应用 5 | [ 5.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/5.apk) |
+| 应用 6 | [ 6.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/6.apk) |
+| 应用 7 | [ 7.apk](https://github.com/Asternux/Kedaxunfei./releases/download/APK/7.apk) |
 
-> 💡 **提示**：点击上表中的链接即可下载，也可以访问 [Release 页面](https://github.com/Asternux/Kedaxunfei./releases/tag/APK) 查看所有文件。
+>  **提示**：点击上表中的链接即可下载，也可以访问 [Release 页面](https://github.com/Asternux/Kedaxunfei./releases/tag/APK) 查看所有文件。
 
 ## 📖 使用教程
 
